@@ -14,3 +14,4 @@
 [{"name":"compile-path","duration":1197837,"timestamp":40391801222,"id":45,"tags":{"trigger":"/_error"},"startTime":1752572240525,"traceId":"6b092b55a1a3f8b9"}]
 [{"name":"next-dev","duration":595435,"timestamp":40425075649,"id":1,"tags":{},"startTime":1752572273799,"traceId":"8d31809fa5b947fa"}]
 [{"name":"next-dev","duration":897768,"timestamp":40526033204,"id":1,"tags":{},"startTime":1752572386313,"traceId":"57e7b0ebd515e70b"}]
+[{"name":"next-dev","duration":820226,"timestamp":40863230085,"id":1,"tags":{},"startTime":1752572734866,"traceId":"a3298c0dc5a596c6"}]
